@@ -1,0 +1,2 @@
+# IOT-BASED-SMART-HEALTH-MONITORING-SYSTEM
+IoT is a latest term that is becoming more and more popular, so with the help of IoT and wearable sensors, real time data of Covid-19 patients i.e. Heartbeat, Cough, Temperature and Oxygen Concentration (SpO2) can be displayed on a smartphone app. This allows the patient to know the real time condition, then the patient can be given the right treatment according to that condition. And it is contactless, so the rest of the people also reduce the risk from the patient.
